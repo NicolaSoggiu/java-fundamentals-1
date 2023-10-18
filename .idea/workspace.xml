@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2683c49-95a8-480d-a273-5d948d68a470" name="Changes" comment="">
+    <list default="true" id="a2683c49-95a8-480d-a273-5d948d68a470" name="Changes" comment="add FizzBuzz">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/CalcoloBigliettoDelTreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/CalcoloBigliettoDelTreno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/FestaACasaFerragnez.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/FestaACasaFerragnez.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/FizzBuzz.java" afterDir="false" />
     </list>
@@ -25,25 +24,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2Ww6kx4lbGxxxs92joDbSYunRZR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Utente/Desktop/java-fundamentals-1/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Utente/Desktop/java-fundamentals-1/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.FestaACasaFerragnez">
+    <configuration name="FestaACasaFerragnez" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.FestaACasaFerragnez" />
+      <module name="java-fundamentals-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.FizzBuzz" />
       <module name="java-fundamentals-1" />
@@ -59,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FestaACasaFerragnez" />
         <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
@@ -72,6 +85,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697631445465</updated>
     </task>
+    <task id="LOCAL-00001" summary="add FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1697632410459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697632410460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="add FizzBuzz" />
   </component>
 </project>
