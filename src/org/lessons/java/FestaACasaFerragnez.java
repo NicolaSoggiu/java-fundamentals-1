@@ -26,14 +26,26 @@ public class FestaACasaFerragnez {
         String name = scan.nextLine();
 
         // creo un ciclo for per controllare tutti i nomi sulla lista e confrontare
+        /*
         for (int i = 0; i < guestList.length; i++) {
             if (guestList[i].equals(name)) {
                 present = true;
                 break;
             }
         }
+         */
 
-        // se è present è true stampo un messaggio
+        //BONUS utilizzo un ciclo while
+        int i = 0;
+        while (i < guestList.length) {
+            if (guestList[i].equals(name)) {
+                present = true;
+                break;
+            }
+            i++;
+        }
+
+        // se present è true stampo un messaggio
         if (present) {
             System.out.println("Il suo nome è sulla lista, può entrare");
             // altrimenti stampo un altro messaggio
