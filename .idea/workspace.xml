@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2683c49-95a8-480d-a273-5d948d68a470" name="Changes" comment="add CalcoloBigliettoDelTreno">
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/security/PasswordGenerator.java" afterDir="false" />
+    <list default="true" id="a2683c49-95a8-480d-a273-5d948d68a470" name="Changes" comment="fix train ticket">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/CalcoloBigliettoDelTreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/CalcoloBigliettoDelTreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/security/PasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/security/PasswordGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Utente/Desktop/java-fundamentals-1/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalcoloBigliettoDelTreno">
+  <component name="RunManager" selected="Application.PasswordGenerator">
     <configuration name="CalcoloBigliettoDelTreno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.CalcoloBigliettoDelTreno" />
       <module name="java-fundamentals-1" />
@@ -82,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.security.PasswordGenerator" />
+      <module name="java-fundamentals-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswordGenerator" />
         <item itemvalue="Application.CalcoloBigliettoDelTreno" />
         <item itemvalue="Application.FestaACasaFerragnez" />
         <item itemvalue="Application.FizzBuzz" />
@@ -131,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697636943867</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix train ticket">
+      <option name="closed" value="true" />
+      <created>1697638907897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697638907897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +160,7 @@
     <MESSAGE value="add FestaACasaFerragnez" />
     <MESSAGE value="bouns exercise 2" />
     <MESSAGE value="add CalcoloBigliettoDelTreno" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CalcoloBigliettoDelTreno" />
+    <MESSAGE value="fix train ticket" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix train ticket" />
   </component>
 </project>
